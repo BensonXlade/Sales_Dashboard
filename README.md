@@ -25,19 +25,19 @@ Unit Cost & Unit Price: Cost and selling price per unit.
 Dashboard Highlights
 
 The dashboard sheet contains the following metrics and visualisations:
-	1.	Profit Trends:
-	•	Total profit by year.
-	•	Profit distribution by gender and customer age group.
-	2.	Category and Location Analysis:
-	•	Revenue, cost, and profit by product category.
-	•	Total profit by state.
-	3.	Key Metrics:
-	•	Total transactions.
-	•	Total quantity sold.
-	•	Total cost, revenue, and profit/loss.
-	4.	Interactivity:
-	•	Filters for Sales Person, Customer Age Group, Year, State, Product Category, and Payment Option.
-	•	Dynamic charts and tables that adjust based on selected filters.
+Profit Trends:
+Total profit by year.
+Profit distribution by gender and customer age group.
+Category and Location Analysis:
+Revenue, cost, and profit by product category.
+Total profit by state.
+Key Metrics:
+Total transactions.
+Total quantity sold.
+Total cost, revenue, and profit/loss.
+Interactivity:
+Filters for Sales Person, Customer Age Group, Year, State, Product Category, and Payment Option.
+Dynamic charts and tables that adjust based on selected filters.
 
 Workflow
 	1.	Data Preparation:
