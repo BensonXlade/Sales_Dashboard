@@ -11,16 +11,16 @@ This project features an interactive Excel dashboard designed to analyse and vis
 Dataset Features
 
 The dataset used for this project includes the following key attributes:
-	•	Date: Transaction dates.
-	•	Customer ID: Unique identifiers for customers.
-	•	Sales Person: The representative responsible for each sale.
-	•	Customer Age: Age of the customer.
-	•	Customer Gender: Gender classification of customers.
-	•	State: Geographic location of the transaction.
-	•	Product Category & Subcategory: Types and subtypes of products sold.
-	•	Payment Option: Methods of payment.
-	•	Quantity: Number of items sold.
-	•	Unit Cost & Unit Price: Cost and selling price per unit.
+Date: Transaction dates.
+Customer ID: Unique identifiers for customers.
+Sales Person: The representative responsible for each sale.
+Customer Age: Age of the customer.
+Customer Gender: Gender classification of customers.
+State: Geographic location of the transaction.
+Product Category & Subcategory: Types and subtypes of products sold.
+Payment Option: Methods of payment.
+Quantity: Number of items sold.
+Unit Cost & Unit Price: Cost and selling price per unit.
 
 Dashboard Highlights
 
