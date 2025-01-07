@@ -2,7 +2,7 @@
 
 Interactive Business Sales Dashboard in Excel
 
-![image](https://cdn.dribbble.com/users/1171108/screenshots/17556159/media/217d8103c9c85bff3288c9f73814d4a4.png)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjZ-UdnLRUFIHspXA_xTfkdurO2r4U5hGzQ&s)
 
 Project Overview
 
