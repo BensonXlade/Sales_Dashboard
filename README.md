@@ -40,13 +40,13 @@ Filters for Sales Person, Customer Age Group, Year, State, Product Category, and
 Dynamic charts and tables that adjust based on selected filters.
 
 Workflow
-	1.	Data Preparation:
-	•	Cleaned and structured the raw data for analysis.
-	2.	Working Sheet:
-	•	Created a dedicated sheet for Pivot Table calculations to aggregate and summarise data.
-	3.	Dashboard Design:
-	•	Designed a visually appealing and highly interactive dashboard on a separate sheet.
-	•	Linked pivot table outputs to visual components for real-time data updates.
+1	Data Preparation:
+	Cleaned and structured the raw data for analysis.
+2	Working Sheet:
+	Created a dedicated sheet for Pivot Table calculations to aggregate and summarise data.
+3	Dashboard Design:
+	Designed a visually appealing and highly interactive dashboard on a separate sheet.
+	Linked pivot table outputs to visual components for real-time data updates.
 
 Technologies Used
 	•	Microsoft Excel: For data cleaning, analysis, and dashboard design.
