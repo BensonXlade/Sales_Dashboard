@@ -40,30 +40,30 @@ Filters for Sales Person, Customer Age Group, Year, State, Product Category, and
 Dynamic charts and tables that adjust based on selected filters.
 
 Workflow
-1	Data Preparation:
+1,	Data Preparation:
 	Cleaned and structured the raw data for analysis.
-2	Working Sheet:
+2,	Working Sheet:
 	Created a dedicated sheet for Pivot Table calculations to aggregate and summarise data.
-3	Dashboard Design:
+3,	Dashboard Design:
 	Designed a visually appealing and highly interactive dashboard on a separate sheet.
 	Linked pivot table outputs to visual components for real-time data updates.
 
 Technologies Used
-	•	Microsoft Excel: For data cleaning, analysis, and dashboard design.
-	•	Excel Features: Pivot Tables, Slicers, Charts, and Conditional Formatting.
+	1,	Microsoft Excel: For data cleaning, analysis, and dashboard design.
+	2,	Excel Features: Pivot Tables, Slicers, Charts, and Conditional Formatting.
 
 How to Use
-	1.	Open the Excel file.
-	2.	Navigate to the Dashboard sheet to explore the visualisations and metrics.
-	3.	Use the filters to customise the view by Sales Person, Customer Age Group, Year, State, Product Category, and Payment Option.
-	4.	Refer to the Working sheet for underlying calculations and pivot table configurations.
+	1,	Open the Excel file.
+	2,	Navigate to the Dashboard sheet to explore the visualisations and metrics.
+	3,	Use the filters to customise the view by Sales Person, Customer Age Group, Year, State, Product Category, and Payment Option.
+	4,	Refer to the Working sheet for underlying calculations and pivot table configurations.
 
 Key Learnings
-	•	Leveraged Pivot Tables to summarise complex datasets.
-	•	Designed an intuitive dashboard that makes data exploration accessible for all users.
-	•	Gained insights into business performance through interactive visualisations.
+	1,	Leveraged Pivot Tables to summarise complex datasets.
+	2,	Designed an intuitive dashboard that makes data exploration accessible for all users.
+	3,	Gained insights into business performance through interactive visualisations.
 
 Future Enhancements
-	•	Automate data updates with Power Query for real-time analysis.
-	•	Add advanced analytics like forecasting or anomaly detection.
-	•	Migrate the dashboard to Power BI or Tableau for enhanced scalability and functionality.
+	1,	Automate data updates with Power Query for real-time analysis.
+	2,	Add advanced analytics like forecasting or anomaly detection.
+	3,	Migrate the dashboard to Power BI or Tableau for enhanced scalability and functionality.
